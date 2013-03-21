@@ -1,0 +1,5 @@
+files
+python-geventhttpclient/
+python-geventhttpclient.*.log
+python-geventhttpclient.*.debhelper
+python-geventhttpclient.substvars

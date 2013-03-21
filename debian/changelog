@@ -1,0 +1,6 @@
+geventhttpclient (1.1~git20130321+81d615-1) unstable; urgency=low
+
+  * source package automatically created by stdeb 0.6.0+git
+  * Use ca-certificate instead of bundled cacert.pem
+
+ -- Chen-Yu Tsai <wens@csie.org>  Thu, 21 Mar 2013 03:24:23 +0000
